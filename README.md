@@ -24,6 +24,6 @@ npm install
 npm run dev
 
 ## 🚀 Демо-версія
-
+git-lesson47.vercel.app
 
 ```
